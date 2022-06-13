@@ -13,6 +13,8 @@ public class SeleniumTest {
 	public void elementsui()
 	{
 		System.out.println("elementsui");
+		System.out.println("elementsui2");
+		System.out.println("elementsui3");
 		
 	}
 	}
